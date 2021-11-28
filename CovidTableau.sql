@@ -13,7 +13,6 @@ where continent is not null
 --Group By date
 order by 1,2
 
--- Just a double check based off the data provided
 -- numbers are extremely close so we will keep them - The Second includes "International"  Location
 
 
@@ -26,8 +25,6 @@ order by 1,2
 
 
 -- 2. 
-
--- We take these out as they are not included in the above queries and want to stay consistent
 -- European Union is part of Europe
 -- also we dont want income class
 
